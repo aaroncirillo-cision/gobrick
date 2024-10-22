@@ -1,4 +1,4 @@
-module github.com/dell/gobrick
+module github.com/aaroncirillo-cision/gobrick
 
 go 1.22
 
