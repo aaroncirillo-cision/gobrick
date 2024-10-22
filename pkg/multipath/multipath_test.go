@@ -24,8 +24,8 @@ import (
 	"reflect"
 	"testing"
 
-	mh "github.com/dell/gobrick/internal/mockhelper"
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	mh "github.com/aaroncirillo-cision/gobrick/internal/mockhelper"
+	wrp "github.com/aaroncirillo-cision/gobrick/internal/wrappers"
 	"github.com/golang/mock/gomock"
 )
 

@@ -26,11 +26,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dell/gobrick/internal/logger"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intpowerpath "github.com/dell/gobrick/internal/powerpath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	"github.com/dell/gobrick/internal/tracer"
+	"github.com/aaroncirillo-cision/gobrick/internal/logger"
+	intmultipath "github.com/aaroncirillo-cision/gobrick/internal/multipath"
+	intpowerpath "github.com/aaroncirillo-cision/gobrick/internal/powerpath"
+	intscsi "github.com/aaroncirillo-cision/gobrick/internal/scsi"
+	"github.com/aaroncirillo-cision/gobrick/internal/tracer"
 )
 
 const (

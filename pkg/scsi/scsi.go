@@ -32,10 +32,10 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/dell/gobrick/internal/logger"
-	"github.com/dell/gobrick/internal/tracer"
-	wrp "github.com/dell/gobrick/internal/wrappers"
-	"github.com/dell/gobrick/pkg/utils"
+	"github.com/aaroncirillo-cision/gobrick/internal/logger"
+	"github.com/aaroncirillo-cision/gobrick/internal/tracer"
+	wrp "github.com/aaroncirillo-cision/gobrick/internal/wrappers"
+	"github.com/aaroncirillo-cision/gobrick/pkg/utils"
 	"golang.org/x/sync/singleflight"
 )
 

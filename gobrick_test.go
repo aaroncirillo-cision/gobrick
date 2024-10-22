@@ -21,10 +21,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/dell/gobrick/internal/logger"
-	"github.com/dell/gobrick/internal/mockhelper"
-	"github.com/dell/gobrick/internal/tracer"
-	"github.com/dell/gobrick/pkg/scsi"
+	"github.com/aaroncirillo-cision/gobrick/internal/logger"
+	"github.com/aaroncirillo-cision/gobrick/internal/mockhelper"
+	"github.com/aaroncirillo-cision/gobrick/internal/tracer"
+	"github.com/aaroncirillo-cision/gobrick/pkg/scsi"
 	"github.com/stretchr/testify/assert"
 )
 

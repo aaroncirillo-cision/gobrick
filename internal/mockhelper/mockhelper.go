@@ -23,7 +23,7 @@ import (
 
 	"github.com/dell/goiscsi"
 
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	wrp "github.com/aaroncirillo-cision/gobrick/internal/wrappers"
 
 	"github.com/golang/mock/gomock"
 )

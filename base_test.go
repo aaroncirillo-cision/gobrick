@@ -16,10 +16,10 @@ limitations under the License.
 package gobrick
 
 import (
-	mh "github.com/dell/gobrick/internal/mockhelper"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	"github.com/dell/gobrick/pkg/scsi"
+	mh "github.com/aaroncirillo-cision/gobrick/internal/mockhelper"
+	intmultipath "github.com/aaroncirillo-cision/gobrick/internal/multipath"
+	intscsi "github.com/aaroncirillo-cision/gobrick/internal/scsi"
+	"github.com/aaroncirillo-cision/gobrick/pkg/scsi"
 	"github.com/golang/mock/gomock"
 )
 

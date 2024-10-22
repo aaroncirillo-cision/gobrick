@@ -23,9 +23,9 @@ import (
 
 	"github.com/dell/gonvme"
 
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	intmultipath "github.com/aaroncirillo-cision/gobrick/internal/multipath"
+	intscsi "github.com/aaroncirillo-cision/gobrick/internal/scsi"
+	wrp "github.com/aaroncirillo-cision/gobrick/internal/wrappers"
 	"github.com/golang/mock/gomock"
 	"golang.org/x/sync/semaphore"
 	"golang.org/x/sync/singleflight"

@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gobrick"
-	"github.com/dell/gobrick/pkg/multipath"
+	"github.com/aaroncirillo-cision/gobrick"
+	"github.com/aaroncirillo-cision/gobrick/pkg/multipath"
 	"github.com/stretchr/testify/assert"
 )
 

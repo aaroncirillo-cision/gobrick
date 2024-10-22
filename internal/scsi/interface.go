@@ -20,7 +20,7 @@ package scsi
 import (
 	"context"
 
-	"github.com/dell/gobrick/pkg/scsi"
+	"github.com/aaroncirillo-cision/gobrick/pkg/scsi"
 )
 
 //go:generate ./generate_mock.sh

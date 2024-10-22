@@ -22,12 +22,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gobrick/internal/powerpath"
+	"github.com/aaroncirillo-cision/gobrick/internal/powerpath"
 
-	"github.com/dell/gobrick/internal/mockhelper"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	"github.com/aaroncirillo-cision/gobrick/internal/mockhelper"
+	intmultipath "github.com/aaroncirillo-cision/gobrick/internal/multipath"
+	intscsi "github.com/aaroncirillo-cision/gobrick/internal/scsi"
+	wrp "github.com/aaroncirillo-cision/gobrick/internal/wrappers"
 	"github.com/dell/goiscsi"
 	"github.com/golang/mock/gomock"
 	"golang.org/x/sync/semaphore"

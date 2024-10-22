@@ -21,8 +21,8 @@ package gobrick
 import (
 	"time"
 
-	"github.com/dell/gobrick/internal/logger"
-	"github.com/dell/gobrick/internal/tracer"
+	"github.com/aaroncirillo-cision/gobrick/internal/logger"
+	"github.com/aaroncirillo-cision/gobrick/internal/tracer"
 )
 
 // Device defines device info

@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gobrick"
+	"github.com/aaroncirillo-cision/gobrick"
 	"github.com/stretchr/testify/assert"
 )
 
